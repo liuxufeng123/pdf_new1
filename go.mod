@@ -1,4 +1,4 @@
-module dev.mythbox.cn/liuxufeng/pdfcpu_new
+module github.com/liuxufeng123/pdf_new1
 
 go 1.20
 
